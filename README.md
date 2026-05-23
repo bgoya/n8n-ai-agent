@@ -70,4 +70,4 @@ What's the weather in Paris tomorrow?
 [View Project](https://n8n-nwvz.onrender.com/webhook/e5616171-e3b5-4c39-81d4-67409f9fa60a/chat/)
 
 ## Future implementations
-The following developments for this agent will be oriented towards the development of an academic assistant, rather than a general purpose AI.
+The following developments for this agent will be oriented towards the development of an academic assistant, rather than a general purpose chatbot.
