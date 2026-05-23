@@ -3,7 +3,7 @@
 Conversational AI assistant built with n8n, OpenAI, Gemini and external APIs.  
 The project combines real-time weather forecasting and technology news retrieval while exploring LLM orchestration, tool calling, contextual memory and conversational interfaces.
 
----
+
 
 ## Overview
 
@@ -16,7 +16,7 @@ The assistant can:
 - maintain short-term conversational context,
 - and interact with external APIs through tool calling.
 
----
+
 
 ## Tech Stack
 
@@ -27,7 +27,7 @@ The assistant can:
 - RSS Feed integrations
 - Render
 
----
+
 
 ## Features
 
@@ -38,7 +38,7 @@ The assistant can:
 - Real-time API integration
 - AI tool orchestration
 
----
+
 
 ## Workflow Architecture
 
@@ -51,7 +51,7 @@ The workflow consists of:
 5. RSS-based tech news retrieval
 6. OpenAI and Gemini language models
 
----
+
 
 ## Example Queries
 
