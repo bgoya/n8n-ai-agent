@@ -59,6 +59,13 @@ The workflow consists of:
 What's the weather in Paris tomorrow?
 ```
 
+## Setup
+
+1. Import the workflow into n8n
+2. Configure your OpenAI and Gemini credentials
+3. Activate the workflow
+4. Open the chat interface
+
 ## Live demo
 [View Project](https://n8n-nwvz.onrender.com/webhook/e5616171-e3b5-4c39-81d4-67409f9fa60a/chat/)
 
